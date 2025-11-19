@@ -57,7 +57,7 @@ Outside of code, you’ll find me <b>playing or watching football</b>, exploring
   <a href="https://github.com/varunn-ranaa"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/varun-rana-6a7560324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/varunn_ranaa"><img src="https://img.shields.io/badge/Twitter(X)-000000?logo=x&logoColor=white" /></a>
-  <a href="mailto:varunrana1789@gmail.com?subject=Hello%20Varun"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:varunrana1777@gmail.com?subject=Hello%20Varun"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
