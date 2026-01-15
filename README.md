@@ -1,4 +1,4 @@
-# ⭐ <span style="color:#0AEDC7; font-weight:700;">varunn_ranaa</span>
+#   <span style="color:#0AEDC7; font-weight:700;">varunn_ranaa</span>
 <h1 align="center" style="font-size: 40px; font-weight: 900; color:#0AEDC7; text-shadow:0 0 10px #0AEDC7;">Hi there!, I'm <span style="color:#05F2DB">Varun Rana</span></h1>
 <h3 align="center" style="font-size:18px; font-weight:600; color:#B5F5FF; letter-spacing:1px;">Full Stack Developer & Learner</h3>
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 <p>
 I’m currently a <b>B.Tech 3rd Year</b> student diving deep into the world of backend development. These days, I’m fully focused on mastering the backend ecosystem using <b>Supabase, Node.js, TypeScript, and MongoDB</b>. I like building things that are fast, clean, and scalable whether it's full-stack apps or experiments that push my understanding further.
 </p>
@@ -19,7 +19,7 @@ Outside of code, you’ll find me <b>playing or watching football</b>, reading a
 
 ---
 
-## 🔥 Tech Stack
+##  Tech Stack
 ### **Languages**
 ![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -34,7 +34,7 @@ Outside of code, you’ll find me <b>playing or watching football</b>, reading a
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunn-ranaa&theme=react-dark&area=true" />
 </p>
