@@ -1,4 +1,4 @@
-#   <span style="color:#0AEDC7; font-weight:700;">varunn_ranaa</span>
+#   <span style="color:#0AEDC7; font-weight:700; align="center"; ">varunn_ranaa</span>
 <h1 align="center" style="font-size: 40px; font-weight: 900; color:#0AEDC7; text-shadow:0 0 10px #0AEDC7;">Hi there!, I'm <span style="color:#05F2DB">Varun Rana</span></h1>
 <h3 align="center" style="font-size:18px; font-weight:600; color:#B5F5FF; letter-spacing:1px;">Full Stack Developer & Learner</h3>
 
