@@ -1,4 +1,9 @@
-#   <span style="color:#0AEDC7; font-weight:700; align=center; ">varunn_ranaa</span>
+<p align="center">
+  <a href="https://github.com/varunn-ranaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0AEDC7&center=true&vCenter=true&width=435&lines=varunn_ranaa" alt="varunn_ranaa"/>
+  </a>
+</p>
+
 <h1 align="center" style="font-size: 40px; font-weight: 900; color:#0AEDC7; text-shadow:0 0 10px #0AEDC7;">Hi there!, I'm <span style="color:#05F2DB">Varun Rana</span></h1>
 <h3 align="center" style="font-size:18px; font-weight:600; color:#B5F5FF; letter-spacing:1px;">Full Stack Developer & Learner</h3>
 
@@ -8,33 +13,64 @@
 
 ---
 
-##  About Me
+## About Me
+<p> B.Tech CSE student focused on <b>Full-Stack Development</b>. Currently learning and building with <b>Next.js</b>, with <b>TypeScript</b> as my next focus, while working with <b>React, Node.js, Appwrite, Supabase, and MongoDB</b>. </p>
 <p>
-I’m currently a <b>B.Tech 3rd Year</b> student diving deep into the world of backend development. These days, I’m fully focused on mastering the backend ecosystem using <b>Supabase, Node.js, TypeScript, and MongoDB</b>. I like building things that are fast, clean, and scalable whether it's full-stack apps or experiments that push my understanding further.
+I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Generation) exploring how to combine LLMs with custom data retrieval to build smarter, context-aware tools.
 </p>
-
-<p>
-Outside of code, you’ll find me <b>playing or watching football</b>, reading about <b>geopolitics & History</b>.
-</p>
+<p> I enjoy building scalable web applications and continuously improving my skills through hands-on projects and learning. </p>
 
 ---
 
-##  Tech Stack
-### **Languages**
-![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## 🛠️ Tech Stack
 
-### **Frameworks / Libraries / Tools**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+**Languages**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
+</tr>
+</table>
+
+**🎨 Frontend**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
+</tr>
+</table>
+
+**⚙️ Backend & Database**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=appwrite" width="40"/><br/>Appwrite</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="40"/><br/>Supabase</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+</tr>
+</table>
+
+**🧰 Tools**
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+</tr>
+</table>
 
 ---
 
-##  GitHub Analytics
+## GitHub Analytics
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunn-ranaa&theme=react-dark&area=true" />
 </p>
@@ -52,4 +88,3 @@ Outside of code, you’ll find me <b>playing or watching football</b>, reading a
 ---
 
 ## ⭐ **Thanks for visiting !**
-
