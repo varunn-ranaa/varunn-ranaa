@@ -22,7 +22,7 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -35,7 +35,7 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 </tr>
 </table>
 
-**🎨 Frontend**
+** Frontend**
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 </tr>
 </table>
 
-**⚙️ Backend & Database**
+** Backend & Database**
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 </tr>
 </table>
 
-**🧰 Tools**
+** Tools**
 
 <table>
 <tr>
