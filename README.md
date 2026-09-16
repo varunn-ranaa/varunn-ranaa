@@ -19,6 +19,7 @@
 I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Generation) exploring how to combine LLMs with custom data retrieval to build smarter, context-aware tools.
 </p>
 <p> I enjoy building scalable web applications and continuously improving my skills through hands-on projects and learning. </p>
+<p> Apart from coding, I like playing and watching football, exploring history, and picking up something new whenever I can.</p>
 
 ---
 
@@ -35,7 +36,7 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 </tr>
 </table>
 
-** Frontend**
+**Frontend**
 
 <table>
 <tr>
@@ -46,34 +47,61 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 </tr>
 </table>
 
-** Backend & Database**
-
+**Backend, Authentication & Database**
 <table>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=appwrite" width="40"/><br/>Appwrite</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="40"/><br/>Supabase</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://authjs.dev/img/logo-sm.png" width="40"/><br/>NextAuth
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=appwrite" width="40"/><br/>Appwrite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="40"/><br/>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis
+    </td>
+  </tr>
 </table>
 
-** Tools**
-
+**DevOps & Tools**
 <table>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker
+    </td>
+    <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS
+</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman
+    </td>
+  </tr>
 </table>
-
----
-
-## GitHub Analytics
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunn-ranaa&theme=react-dark&area=true" />
-</p>
 
 ---
 
