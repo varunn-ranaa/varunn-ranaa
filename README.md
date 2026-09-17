@@ -20,6 +20,10 @@ I'm currently working on a <b>RAG-based application</b> (Retrieval-Augmented Gen
 </p>
 <p> I enjoy building scalable web applications and continuously improving my skills through hands-on projects and learning. </p>
 <p> Apart from coding, I like playing and watching football, exploring history, and picking up something new whenever I can.</p>
+<p>
+  💬 Got something to say? Drop me an anonymous message — I won't judge you.
+  <a href="https://unfiltered-txt.vercel.app/anonymous/varun">Say it anonymously →</a>
+</p>
 
 ---
 
